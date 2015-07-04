@@ -1,0 +1,1 @@
+A simple scraper made in Ruby to scrape basic data on each of Airbnb's Toronto pages. Will create and output into a CSV file.
